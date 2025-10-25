@@ -7,4 +7,4 @@ eureka:
 logging:
   level:
     org.springframework: INFO
-  file: "C:/Users/DELL/Downloads/ecom-app/app.log"      
+  file:  C:/Users/DELL/Downloads/ecom-app/app.log      
