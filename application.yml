@@ -23,6 +23,9 @@ spring:
 
 
 
+test:
+  input: 1
+
 
 
 
