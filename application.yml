@@ -24,7 +24,7 @@ spring:
 
 
 test:
-  input: 1
+  input: 2
 
 
 
